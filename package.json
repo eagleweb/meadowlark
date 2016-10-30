@@ -1,0 +1,29 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Test website using Express and Node",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "node-static": "^0.7.9"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagleweb/meadowlark.git"
+  },
+  "author": "eagleweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eagleweb/meadowlark/issues"
+  },
+  "homepage": "https://github.com/eagleweb/meadowlark#readme"
+}
